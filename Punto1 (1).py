@@ -1,8 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
+"""El siguiente codigo calcula e imprime"""
+"""Sumatoria de Riemann"""
+"""Autor:Maria Camila Vargas Giraldo"""
+"""Ultima actualizacion:22 de septiembre/2021"""
 
 import numpy as np 
 def Zeta(n):
@@ -15,7 +14,7 @@ print((Zeta(10000)))
 print((np.pi**2)/6)
 
 
-# In[ ]:
+
 
 
 
